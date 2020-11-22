@@ -4,3 +4,11 @@ section{
     justify-content:center; 
     align-items: center 
 }
+
+.avengers{
+    background: #ffffee;
+    padding: 1rem;
+    width: 20rem;
+    border-radius: 1rem;
+    margin:1rem
+}
