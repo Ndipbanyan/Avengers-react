@@ -1,3 +1,4 @@
+import './index.css'
 const Avenger = ({ img, act, name }) => {
   return (
     <div className="avengers">
