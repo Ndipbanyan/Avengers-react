@@ -46,6 +46,7 @@ export const data = {
         "https://terrigen-cdn-dev.marvel.com/content/prod/2x/online_char_avengehonor_series_thor_v1_lg_1.jpg",
       act: "Thor",
       name: "Chris Hemsworth",
-    },
+        },
+    
   ],
 };
