@@ -12,10 +12,12 @@ function App()
   
   return (
     <section>
-      {data.Avengers.map((avenger) => {
-        return <Avenger key={avenger.id} {...avenger} />;
-      })}
-     
+      <h1>END GAME MINI-CHARACTER LIST</h1>
+      <div className="avenge">
+        {data.Avengers.map((avenger) => {
+          return <Avenger key={avenger.id} {...avenger} />;
+        })}
+      </div>
     </section>
   );  
 }
